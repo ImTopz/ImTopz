@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ImTopz
-- 👀 I’m interested in ROS、Robot's Nav、AI、IOT、WEB、IE
-- 🌱 I’m currently learning C/Cpp and Go 、Python 、Java、NodeJs、Vue and wanna explore their difference,and use them to design what i want.
-- 💞️ I’m looking to collaborate on myself and those who need my help.
+- 👀 I’m interested in most areas of computer science.
+- 🌱 I’m currently do things with  C/Cpp and Golang 、Python 、NodeJs、Vue 、Reverse Java and will contribute for them.
+-  I work for ICT and Developing project.
 Builders make world better again!
 <!---
 ImTopz/ImTopz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
